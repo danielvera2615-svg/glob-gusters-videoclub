@@ -1,1 +1,3 @@
-git config --global user.email "correo_personal@gmail.com"
+-- Base de datos 
+-- Autor: Daniel Alejandro Vera Mendoza
+-- 14/09/2026
